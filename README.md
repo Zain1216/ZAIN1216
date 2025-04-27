@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **FANOFAN**
 
-- 🌱 I’m currently learning **REACT.JS NODE.JS**
+- 🌱 I’m currently learning **REACT.JS , NODE.JS**
 
-- 👯 I’m looking to collaborate on **FANOFAN**
+- 👯 I’m looking to collaborate on **Professional Website**
 
 - 📝 I regularly write articles on [TECHNOLOGY](TECHNOLOGY)
 
-- 📄 Know about my experiences [FRONTEND DEVELOPER](FRONTEND DEVELOPER)
+- 📄 Know about my experiences [FRONTEND DEVELOPER]
 
 - ⚡ Fun fact **TRAVEL**
 
