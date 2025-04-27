@@ -1,3 +1,5 @@
+![logo](https://github.com/Zain1216/ZAIN1216/blob/main/1739124161353.jpg)
+
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img alig="right" alt="coding" width="400" src="/image.gif">
