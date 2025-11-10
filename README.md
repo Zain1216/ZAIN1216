@@ -61,4 +61,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zain1216&show_icons=true&locale=en" alt="zain1216" /></p>
 
-![1,000,000 Streak](https://raw.githubusercontent.com/USER/REPO/BRANCH/badge.svg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zain1216&" alt="zain1216" /></p>
